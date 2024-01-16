@@ -5,10 +5,21 @@ Ongoing...
 
 ## Paper Information
 
-Junkai Fang \*, Nan Fang \*, Fei Huang, Jinglin Zhou, Maoying Qiao, Fei Gao, LEARNING DISCRIMINATIVE STYLE REPRESENTATIONS FOR UNSUPERVISED AND FEW-SHOT ARTISTIC PORTRAIT DRAWING GENERATION, ICASSP 2024, accepted. (\* Equal Contributions.)
+Junkai Fang \*, Nan Fang \*, Fei Huang, Jinglin Zhou, Maoying Qiao, Fei Gao, LEARNING DISCRIMINATIVE STYLE REPRESENTATIONS FOR UNSUPERVISED AND FEW-SHOT ARTISTIC PORTRAIT DRAWING GENERATION, 
+2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024), accepted. (\* Equal Contributions.)
 
 
+## Pipeline
 
+![pipeline](fig_pipeline.jpg)
+
+## Compare with SOTAs
+
+![comp](fig_all_datasets_slim.jpg)
+
+## Few-shot settings
+
+![fs](fig_cuhk_few-shot.jpg)
 
 
 ---
